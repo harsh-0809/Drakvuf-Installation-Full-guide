@@ -15,26 +15,26 @@ Drakvuf is a black box binary dynamic malware analysis tool. It works on the pri
 
 - Before installing the drakvuf you have to make partition in the system for the LVM and system space.
 
-![Installation](/1.png)
+![Installation](/Images/1.png)
 - Make sure to check the all boxes as pe the below image before proceeding furthur. However it not mandatory but still it helps to install the latest verison of software.
 
-![Installation](/2.png)
+![Installation](/Images/2.png)
 
 - In Installation type, select the Something else.
 
-![Installation](/3.png)
+![Installation](/Images/3.png)
 
 - If you already have some installed lvm partition you run the following command to delete it.
 
-![Installation](/4.png)
+![Installation](/Images/4.png)
 
 - Now create the swap space, efi space and the main system space for DOM0 XEN installation.
 
-![Installation](/5.png)
+![Installation](/Images/5.png)
 
 - Click on the Install button.
 
-![Installation](/6.png)
+![Installation](/Images/6.png)
 ## Dependencies and Packages Installation
 
 These commands works fine with Debian based linux distro. We have used the Ubunut 20.04 Focal Fossa operting system. First isnstall the required dependencies.
